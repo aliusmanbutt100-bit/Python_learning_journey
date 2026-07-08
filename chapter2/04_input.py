@@ -1,0 +1,6 @@
+# Input function(to input variables)
+a=int(input("Enter no 1:"))
+b=int(input("Enter no 2:"))
+print("the no 1 is:",a)
+print("the no 2 is:",b)
+print(a+b)
